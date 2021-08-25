@@ -1,0 +1,23 @@
+.logo {
+    color: white !important;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px !important;
+}
+
+.cd {
+    font-size: 26px !important;
+    font-weight: bold !important;
+    background: linear-gradient(to right, #f37005, #f30505);
+    -webkit-text-fill-color: transparent !important;
+    -webkit-background-clip: text !important;
+}
+
+.mn {
+    font-size: 22px !important;
+    color: white !important;
+
+}
+
+.text {
+    color: white !important;
+}

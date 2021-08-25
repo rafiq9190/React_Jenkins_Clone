@@ -1,0 +1,25 @@
+.texts {
+    font-size:15px;
+    margin-top: 20px;
+}
+.categories {
+    color: #168BB9;
+}
+.categories>a {
+    color: #168BB9;
+}
+.categories:hover {
+    color: #10aeec;
+}
+
+ li {
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-size: 16px;
+    font-weight:bold;
+    margin-top: 20px;
+
+}
+

@@ -1,0 +1,47 @@
+.connection__main {
+    display: flex;
+    justify-content: flex-start;
+    align-items:top;
+    object-fit: contain;
+    text-align: center;
+    margin-left: 30px;
+
+    
+    
+}
+
+.connection {
+    background-color: #168BB9;
+    width: 50px;
+    height: 50px;
+    justify-content:center;
+    align-items:center;
+    border-radius: 50%;
+    padding: 12px;
+    font-size: 34px;
+    font-weight: 900;
+    display:flex;
+    color: white;
+}
+
+
+.connection__text {
+    justify-content: left;
+    text-align: left;
+    margin-left: 20px;
+    /* margin-right: 20px; */
+     
+}
+
+.first__Heading {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.second__Heading {
+    text-align: left;
+    justify-content: left;
+    font-weight: 400;
+    font-size: 12px;
+
+}

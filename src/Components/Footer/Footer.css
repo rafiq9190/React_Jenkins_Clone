@@ -1,0 +1,23 @@
+.footer__part1 {
+    font-weight: bold;
+    color: white;
+    font-size: 12px;
+}
+
+span>a {
+    color: white
+}
+
+span>a:hover {
+    color: white
+}
+
+.footer__part2 {
+    color: white;
+}
+.footer__part2:hover {
+    color: white;
+}
+
+
+

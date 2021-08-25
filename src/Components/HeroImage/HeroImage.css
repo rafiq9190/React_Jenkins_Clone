@@ -1,0 +1,30 @@
+.image1 {
+    margin-top: 35px;
+    align-items: right;
+    text-align: right;
+    /* margin-left: 40%; */
+
+}
+
+
+.heading1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 72px;
+    font-weight: bold;
+    color: #4A5568;
+    text-align: left;
+
+}
+
+.heading2 {
+    font-size: 18px;
+    color: #4A5568;
+    text-align: left;
+}
+
+.heading3 {
+    font-size: 18px;
+    color: #4A5568;
+    text-align: left;
+    margin-right: 30%;
+}

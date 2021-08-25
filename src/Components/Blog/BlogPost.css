@@ -1,0 +1,8 @@
+.linkes >a {
+    color: red;
+}
+
+.small__linkes > a {
+    color: #168BB9;
+    font-size: 12px;
+}

@@ -1,0 +1,58 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    margin-left: 20%;
+    margin-right: 20%;
+    /* margin-bottom: 30px; */
+
+}
+
+.main__dates {
+    border: 1px solid black;
+    width: 120px;
+    height: 110px;
+    padding: 1px;
+    font-size: 24px;
+
+}
+
+.main__month {
+    background-color: #9C373E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.main__date {
+    color: white;
+    background-color: #168BB9;
+    height: 45px;
+    align-items: center;
+    text-align: center;
+    font-weight: 500;
+}
+
+.main__heading {
+    font-size: 24px;
+    color: #168BB9;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+}
+
+.main__small {
+    font-size: 12px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    margin-bottom: 30px;
+}
